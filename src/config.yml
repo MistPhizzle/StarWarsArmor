@@ -1,0 +1,9 @@
+JetPack:
+  Speed: 0.8
+  DisabledWorlds:
+  - World1
+  - World2
+ArmorSuffocate:
+  Worlds:
+  - World1
+  - World2
